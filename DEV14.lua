@@ -1,6 +1,6 @@
 local Games = {
-  [12751132013] = "https://gist.githubusercontent.com/BLXRSCRIPTER/078b162b55e4abca720c6e44d206a8c6/raw/5b56b38f3c70b5a9c02405401a7dac8d05adeb01/script.lua" -- KILLSTREAK MODDED
-  [13559635034] = "https://gist.githubusercontent.com/BLXRSCRIPTER/467f3b306c0a3f4704c594ababb93a72/raw/c65fdde7665db9d48cbf8265259db39d2c4a051e/combat.lua" -- COMBAT INITIATION
+  [12751132013] = "https://raw.githubusercontent.com/BLXRSCRIPTER/DEV14/refs/heads/main/KSMODDED" -- KILLSTREAK MODDED
+  [13559635034] = "https://raw.githubusercontent.com/BLXRSCRIPTER/DEV14/refs/heads/main/COMBAT" -- COMBAT INITIATION
  }
 for PlaceID, Execute in pairs(Games) do
     if PlaceID == game.PlaceId then
