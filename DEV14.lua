@@ -1,7 +1,4 @@
-local Games = {
-  [12751132013] = "https://raw.githubusercontent.com/BLXRSCRIPTER/DEV14/refs/heads/main/KSMODDED" -- KILLSTREAK MODDED
-  [13559635034] = "https://raw.githubusercontent.com/BLXRSCRIPTER/DEV14/refs/heads/main/COMBAT" -- COMBAT INITIATION
- }
+local Games = loadstring(game:HttpGet("https://raw.githubusercontent.com/BLXRSCRIPTER/DEV14/refs/heads/main/GamesList"))()
 for PlaceID, Execute in pairs(Games) do
     if PlaceID == game.PlaceId then
         loadstring(game:HttpGet(Execute))()
