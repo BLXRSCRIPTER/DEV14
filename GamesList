@@ -1,0 +1,6 @@
+local Games = {
+  [12751132013] = "https://raw.githubusercontent.com/BLXRSCRIPTER/DEV14/refs/heads/main/KSMODDED" -- KILLSTREAK MODDED
+  [13559635034] = "https://raw.githubusercontent.com/BLXRSCRIPTER/DEV14/refs/heads/main/COMBAT" -- COMBAT INITIATION
+}
+
+return Games
