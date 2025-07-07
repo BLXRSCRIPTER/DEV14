@@ -1,8 +1,9 @@
---[[
-    DEV14 HUB
-    Supported Games:
-    -Killstreak MODDED
-    -Combat inititaion
+DEV14 HUB BY DEV14
+    
+    
+    SUPPORTED GAMES:
+    -Killstreak MODDED (Fixed)
+    -Combat Initiation
 
-    DO NOT SKID, ILL KIDNAP YOUR FAMLIY.
-]]
+
+DONT SKID IT, I WILL STEAL YOUR LIVER.
