@@ -1,4 +1,4 @@
-local Games = loadstring(game:HttpGet("https://raw.githubusercontent.com/BLXRSCRIPTER/DEV14/refs/heads/main/GamesList"))()
+local Games = loadstring(game:HttpGet("https://raw.githubusercontent.com/BLXRSCRIPTER/DEV14/main/Games.lua"))()
 for PlaceID, Execute in pairs(Games) do
     if PlaceID == game.PlaceId then
         loadstring(game:HttpGet(Execute))()
